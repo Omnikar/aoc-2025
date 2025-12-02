@@ -1,7 +1,7 @@
 # Advent of Code 2025
 
 - [x] [Day 1](day1.ua)
-- [ ] Day 2
+- [x] [Day 2](day2.ua)
 - [ ] Day 3
 - [ ] Day 4
 - [ ] Day 5
