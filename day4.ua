@@ -1,4 +1,3 @@
-# Experimental!
 ~ "gh: amatgil/steal-gift" ~ AoCGet
 
 AoCGet 2025 4
