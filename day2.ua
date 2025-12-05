@@ -15,4 +15,4 @@ Part₂ ← /+▽≡◇(
   /∨♭≡⌟(≍⊸↻₁⧈⌟∘¯)
 )
 
-⨬Part₁ Part₂ -₁◇⋕⊏1&args
+⨬Part₁ Part₂ -₁◇⋕⊏₁&args

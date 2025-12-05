@@ -11,4 +11,4 @@ Part₁ ← /+/↥≡⌟(∊⇡+₁∩⌞-°⊟)
 CombineRanges ← ▽⊸≡/≥⊃[⍜⊙⊣↧-₁/↧|⍜⊙⊢↥+₁/↥]
 Part₂         ← /++₁≡/-∧(⊂⊸˜∧(/◇⊂⍚⌞CombineRanges)¤)⊙⋅(°△0_2)
 
-⨬Part₁ Part₂ -₁◇⋕⊏1&args
+⨬Part₁ Part₂ -₁◇⋕⊏₁&args

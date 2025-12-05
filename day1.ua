@@ -7,4 +7,4 @@ AoCGet 2025 1
 Part₁ ← /+=0◿100
 Part₂ ← ⌈÷2+∩(/+⌵⧈-⌊÷100)⊸-1
 
-⨬Part₁ Part₂ -₁◇⋕⊏1&args
+⨬Part₁ Part₂ -₁◇⋕⊏₁&args
