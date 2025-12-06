@@ -5,7 +5,7 @@
 - [x] [Day 3](day3.ua)
 - [x] [Day 4](day4.ua)
 - [x] [Day 5](day5.ua)
-- [ ] Day 6
+- [x] [Day 6](day6.ua)
 - [ ] Day 7
 - [ ] Day 8
 - [ ] Day 9
