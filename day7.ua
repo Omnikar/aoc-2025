@@ -5,8 +5,8 @@ AoCGet 2025 7
 ⊜∘⊸≠@\n
 ˜∩=@^@S⟜⊢
 
-Solve‼ ← ^0/+∧(+⊃(/+^1≡⌟⬚0↻A₁×|×¬))
-Part₁  ← Solve‼-₁⍜⊣±
-Part₂  ← Solve‼∘∘
+Solve! ← /+∧(++^∩⌟⬚0↻1¯1∩⌟×⟜¬)
+Part₁  ← -₁Solve!±
+Part₂  ← Solve!∘
 
 ⨬Part₁ Part₂ -₁◇⋕⊏₁&args
