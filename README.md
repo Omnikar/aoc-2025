@@ -11,4 +11,4 @@
 - [x] [Day 9](day9.ua)
 - [ ] Day 10
 - [x] [Day 11](day11.ua)
-- [ ] Day 12
+- [x] [Day 12](day12.ua)
